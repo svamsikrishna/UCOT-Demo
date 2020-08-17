@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Demo</description>
+        <device_type>browser</device_type>
+        <hint>Demo</hint>
+        <name/>
+        <order/>
+        <roles>delegated_developer,approver_user,approval_admin,admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-17 06:37:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>73d0d4f3dbe2d010d72ec6ab139619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UCOT Demo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UCOT Demo" source="x_snc_ucot_demo">f3ec4c33dbe2d010d72ec6ab13961996</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UCOT Demo">f3ec4c33dbe2d010d72ec6ab13961996</sys_scope>
+        <sys_update_name>sys_app_application_73d0d4f3dbe2d010d72ec6ab139619e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-17 06:37:31</sys_updated_on>
+        <title>UCOT Demo</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

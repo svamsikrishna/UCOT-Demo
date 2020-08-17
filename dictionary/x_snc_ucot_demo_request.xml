@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Request" max_length="40" name="x_snc_ucot_demo_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="A" max_length="40" name="a" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="B" max_length="40" name="b" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C" max_length="40" name="c" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="D" max_length="40" name="d" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="E" max_length="40" name="e" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>
