@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Variables" section_id="7069813bdba6d010d72ec6ab13961993" sys_domain="global" table="x_snc_ucot_demo_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>a</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:44:27</sys_created_on>
+            <sys_id>cd69c13bdba6d010d72ec6ab13961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Variables" display_value="Variables" name="x_snc_ucot_demo_request" sys_domain="global" view="Default view">7069813bdba6d010d72ec6ab13961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:44:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>b</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:44:27</sys_created_on>
+            <sys_id>4169c13bdba6d010d72ec6ab13961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Variables" display_value="Variables" name="x_snc_ucot_demo_request" sys_domain="global" view="Default view">7069813bdba6d010d72ec6ab13961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:44:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:44:27</sys_created_on>
+            <sys_id>c169c13bdba6d010d72ec6ab13961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Variables" display_value="Variables" name="x_snc_ucot_demo_request" sys_domain="global" view="Default view">7069813bdba6d010d72ec6ab13961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:44:27</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:44:27</sys_created_on>
+            <sys_id>4569c13bdba6d010d72ec6ab13961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Variables" display_value="Variables" name="x_snc_ucot_demo_request" sys_domain="global" view="Default view">7069813bdba6d010d72ec6ab13961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:44:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:44:27</sys_created_on>
+            <sys_id>c569c13bdba6d010d72ec6ab13961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Variables" display_value="Variables" name="x_snc_ucot_demo_request" sys_domain="global" view="Default view">7069813bdba6d010d72ec6ab13961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:44:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:44:27</sys_created_on>
+            <sys_id>4969c13bdba6d010d72ec6ab13961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Variables" display_value="Variables" name="x_snc_ucot_demo_request" sys_domain="global" view="Default view">7069813bdba6d010d72ec6ab13961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:44:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Variables</caption>
+            <header>false</header>
+            <name>x_snc_ucot_demo_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:44:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7069813bdba6d010d72ec6ab13961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Variables</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UCOT Demo" source="x_snc_ucot_demo">f3ec4c33dbe2d010d72ec6ab13961996</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UCOT Demo">f3ec4c33dbe2d010d72ec6ab13961996</sys_scope>
+            <sys_update_name>sys_ui_section_7069813bdba6d010d72ec6ab13961993</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:44:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_ucot_demo_request" version="2" view="Mobile">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_ucot_demo_request" element="NULL" name="x_snc_ucot_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="99d77242db0300101d56fc1ebf9619b7">ffa7c1b7dba6d010d72ec6ab1396191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:36:59</sys_created_on>
+            <sys_id>ffa7c1b7dba6d010d72ec6ab1396191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:36:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>a</element>
+            <list_id display_value="x_snc_ucot_demo_request" element="NULL" name="x_snc_ucot_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="99d77242db0300101d56fc1ebf9619b7">ffa7c1b7dba6d010d72ec6ab1396191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:36:59</sys_created_on>
+            <sys_id>77a7c1b7dba6d010d72ec6ab1396191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:36:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>b</element>
+            <list_id display_value="x_snc_ucot_demo_request" element="NULL" name="x_snc_ucot_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="99d77242db0300101d56fc1ebf9619b7">ffa7c1b7dba6d010d72ec6ab1396191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:36:59</sys_created_on>
+            <sys_id>f7a7c1b7dba6d010d72ec6ab1396191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:36:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>c</element>
+            <list_id display_value="x_snc_ucot_demo_request" element="NULL" name="x_snc_ucot_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="99d77242db0300101d56fc1ebf9619b7">ffa7c1b7dba6d010d72ec6ab1396191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:36:59</sys_created_on>
+            <sys_id>7ba7c1b7dba6d010d72ec6ab1396191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:36:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>d</element>
+            <list_id display_value="x_snc_ucot_demo_request" element="NULL" name="x_snc_ucot_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="99d77242db0300101d56fc1ebf9619b7">ffa7c1b7dba6d010d72ec6ab1396191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:36:59</sys_created_on>
+            <sys_id>fba7c1b7dba6d010d72ec6ab1396191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:36:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_snc_ucot_demo_request" element="NULL" name="x_snc_ucot_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="99d77242db0300101d56fc1ebf9619b7">ffa7c1b7dba6d010d72ec6ab1396191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:36:59</sys_created_on>
+            <sys_id>7fa7c1b7dba6d010d72ec6ab1396191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:36:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>e</element>
+            <list_id display_value="x_snc_ucot_demo_request" element="NULL" name="x_snc_ucot_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="99d77242db0300101d56fc1ebf9619b7">ffa7c1b7dba6d010d72ec6ab1396191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:36:59</sys_created_on>
+            <sys_id>ffa7c1b7dba6d010d72ec6ab1396191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:36:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_snc_ucot_demo_request" element="NULL" name="x_snc_ucot_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="99d77242db0300101d56fc1ebf9619b7">ffa7c1b7dba6d010d72ec6ab1396191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:36:59</sys_created_on>
+            <sys_id>73a7c1b7dba6d010d72ec6ab1396191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:36:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_snc_ucot_demo_request" element="NULL" name="x_snc_ucot_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="99d77242db0300101d56fc1ebf9619b7">ffa7c1b7dba6d010d72ec6ab1396191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:36:59</sys_created_on>
+            <sys_id>f3a7c1b7dba6d010d72ec6ab1396191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:36:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_ucot_demo_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-17 10:36:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffa7c1b7dba6d010d72ec6ab1396191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_ucot_demo_request</sys_name>
+            <sys_package display_value="UCOT Demo" source="x_snc_ucot_demo">f3ec4c33dbe2d010d72ec6ab13961996</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UCOT Demo">f3ec4c33dbe2d010d72ec6ab13961996</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_ucot_demo_request_Mobile</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-17 10:36:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mobile" name="Mobile">99d77242db0300101d56fc1ebf9619b7</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

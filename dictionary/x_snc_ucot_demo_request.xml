@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Request" max_length="40" name="x_snc_ucot_demo_request" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="A" max_length="40" name="a" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="B" max_length="40" name="b" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="A" max_length="40" name="a" read_only="true" type="string"/>
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="B" max_length="40" name="b" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="C" max_length="40" name="c" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="D" max_length="40" name="d" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="8000" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="E" max_length="40" name="e" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="100" value="1"/>
+                <element inactive_on_update="false" label="Assess" sequence="200" value="2"/>
+                <element inactive_on_update="false" label="Authorize" sequence="300" value="3"/>
+                <element inactive_on_update="false" label="Review" sequence="400" value="4"/>
+                <element inactive_on_update="false" label="Closed" sequence="500" value="5"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
     </element>
 </database>
